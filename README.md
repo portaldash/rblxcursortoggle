@@ -1,4 +1,4 @@
-# Roblox Cursor Toggle Tool
+# rblxcursortoggle
 
 This is a lightweight Python script that toggles visibility of certain Roblox cursor files by renaming them. It's designed for users who want to temporarily hide their in-game cursors in Roblox when using Bloxstrap.
 
